@@ -129,16 +129,6 @@ Deploy on Streamlit Cloud or Hugging Face
 
 Add user authentication
 
-Let me know and I can help you extend it!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want this as a downloadable `README.md` file too!
-
 
 
 
